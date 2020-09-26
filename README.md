@@ -30,5 +30,5 @@ Tkinter<br />
 For linux users: sudo apt-get install python3-tk<br /><br />
 
 For other users, you can follow <a href="https://www.python.org/downloads/">this</a> link.<br />
-For OpenCV and Flask also You can go to their respective wesites for installation.<br /><br />
+For OpenCV and Tkinter also You can go to their respective wesites for installation.<br /><br />
 After installation of Python, OpenCV and Tkinter , you can clone or download the repo and run gui.py file.
