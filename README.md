@@ -2,9 +2,10 @@
 
 # Description
 
-It is an Desktop based OpenCV project. Tkinter is used for GUI and Python is its core language. <br/><br/>
+It is a simple Desktop based project. <br/><br/>
+It is developed using Python and Tkinter.<br/><br/>
+It involves Implementation of different image processing techniques like Gray scale conversion, Min filter, Max filter, Mean filter, Median filter, etc through hard coding using Python conditional loops and displayed along with their histogram. <br/>
 
-Here, some basic image processing operations are implemented using python conditional loops and displayed.
 
 # Visuals
 
